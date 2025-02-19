@@ -1,9 +1,39 @@
 ﻿//Lav et "visitkort" Hvor du skriver dit navn, alder, Interesser, Yndlingsdyr og så videre.
 //Udsmyk visitkortet med farver og evt ASCII art.
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.BackgroundColor = ConsoleColor.Cyan;
+Console.Clear();
+Console.WriteLine("Hello world !");
+Console.WriteLine("======================================");
+Console.WriteLine("|             Navn= Sara             |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|             Alder= 12              |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|   Hobby= Spille og være kreativ    |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|        Kæledyr= Kat-Bailey         |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("| Første gang jeg kodede= 19/02 2025 |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|        Brille styrke= -1,5         |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|            Klasse= 5.C             |");
+Console.WriteLine("======================================");
+Console.WriteLine("======================================");
+Console.WriteLine("|         Bedste ven= Alma N         |");
+Console.WriteLine("======================================");
+    
+    (\_/)
+    (*.*)
 
 
-
-
+Console.ReadKey();
 
 
 
@@ -21,7 +51,7 @@
 // Ændrer baggrunds- og tekstfarve i konsollen
 //Console.BackgroundColor = ConsoleColor.DarkBlue;
 //Console.Clear(); // Opdaterer konsolbaggrunden
-//Console.ForegroundColor = ConsoleColor.Yellow;
+//Console.ForegroundColor = ConsoleColor.Magenta;
 //
 //// Laver en overskrift med centrering
 //Console.WriteLine("========================================");
@@ -41,4 +71,4 @@
 //// Tilføjer lidt mellemrum og prompt for at afslutte programmet
 //Console.ResetColor();
 //Console.WriteLine("\nTryk på en vilkårlig tast for at afslutte...");
-//Console.ReadKey(); // Venter på brugerinput, før programmet lukker
+Console.ReadKey(); // Venter på brugerinput, før programmet lukker
