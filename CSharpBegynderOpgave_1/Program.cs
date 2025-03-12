@@ -29,8 +29,7 @@ Console.WriteLine("======================================");
 Console.WriteLine("|         Bedste ven= Alma N         |");
 Console.WriteLine("======================================");
     
-    (\_/)
-    (*.*)
+   
 
 
 Console.ReadKey();

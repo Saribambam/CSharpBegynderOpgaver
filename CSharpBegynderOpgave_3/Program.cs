@@ -21,7 +21,7 @@ int input = Convert.ToInt32(Console.ReadLine()); //Det giver altså en fejl hvis
 
 
 Random random = new Random();
-int Resultat = random.Next(1,11); //Generere et random tal imellem 0 og 100. (0 er med, men 101 er ikke)
+int Resultat = random.Next(1, 11); //Generere et random tal imellem 0 og 100. (0 er med, men 101 er ikke)
 
 
 
